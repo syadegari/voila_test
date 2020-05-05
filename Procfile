@@ -1,1 +1,1 @@
-web: voila —-port= —-no-browser voila.ipynb
+web: voila —-port= —-no-browser app.ipynb
