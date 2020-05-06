@@ -1,1 +1,1 @@
-web: voila —-port=$PORT —-no-browser voila.ipynb
+web: voila --port=$PORT --no-browser tracker_covid19.ipynb
